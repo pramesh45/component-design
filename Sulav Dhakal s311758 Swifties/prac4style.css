@@ -1,0 +1,39 @@
+.card{
+	margin: 250px;
+	width: 300px;
+	height: 450px;
+	background-color: green;
+	margin-left: 30%;
+
+}
+.home{
+	width: 100px;
+	height: 100px;
+	margin-left: 67%;
+
+}
+ h1{
+	text-align: center;
+	color: red;
+	background-image: url('ac.jpg');
+}
+.box{
+	width: 300px;
+	height:60px;
+	background-color: blue;
+}
+.social-site{
+	margin-top: 137px;
+	width: 30px;
+	height: auto;
+}
+.menu{
+	width:50px;
+	height:20px;
+	line-height:15px;
+	text-align:center;
+}
+h2{
+	text-align: left;
+	font-size: 13px;
+}

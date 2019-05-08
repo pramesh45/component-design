@@ -1,0 +1,53 @@
+body{
+  font-family: "Open sans", arial;
+  background: #42f4b3;
+}
+h1{
+  background: #0f2677;
+  color: white;
+  height: 30px;
+  padding:20px;
+  background-image: url("cdulibrary.ico");
+  background-repeat: no-repeat;
+  background-size: 74px;
+  background-position: right;
+}
+
+button{
+  color: #ffffff;
+  cursor: pointer;
+  height:45px;
+  background-color: #4766d8;
+  border-radius: 60px;
+  font-size: 20px;
+}
+
+.search-container {
+  float: right;
+}
+
+.input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+#box{
+  background-color:lightgrey;
+  height: 200px;
+  width: 600px;
+  border: 10px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+footer{
+  background-color: #72726e;
+  padding-top: 10px;
+  color: black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
